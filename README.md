@@ -29,14 +29,18 @@ Esta é uma calculadora web simples desenvolvida com HTML, CSS e JavaScript. Ela
 
 
 3. Abra o arquivo calcCientifica.html em seu navegador.
-4. Estrutura do Projeto
+   
+## Estrutura do Projeto
 
 calcCientifica.html: Estrutura básica da calculadora.
+
 css_calcCientifica.css: Estilos para a interface da calculadora.
+
 js_calcCientifica.js: Lógica de funcionamento da calculadora.
 
-Capturas de Tela
+
+## Capturas de Tela
 ![image](https://github.com/user-attachments/assets/71af586a-6b23-4ee9-be6e-59502598ceea)
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
